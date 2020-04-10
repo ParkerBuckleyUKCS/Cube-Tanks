@@ -1,5 +1,6 @@
 # Cube Tanks
  A 2-D Top-Down Arcade Shooter in Unity
+### [Play Now!](https://github.com/ParkerBuckleyUKCS/Cube-Tanks/blob/master/Build/Cube%20Tanks.exe)
 
 ## Controls
 * Move with WASD
