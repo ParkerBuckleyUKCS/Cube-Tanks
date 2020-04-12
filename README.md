@@ -10,7 +10,7 @@
 
 ## Custom Scripts
 Written in C#, my game features custom scrips for:
-* Randomized movement 
+* Seeking missile 
 * Custom explosion physics
 * Randomized enemy movements
 * Player tracking for enemy aim
