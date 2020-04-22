@@ -1,7 +1,7 @@
 # Cube Tanks
  A 2-D Top-Down Arcade Shooter in Unity
-### [Play Now!](https://github.com/ParkerBuckleyUKCS/Cube-Tanks/blob/master/Build/Cube%20Tanks.exe)
-#### Simply Download the .exe and get started.
+### [Play Now!](https://github.com/ParkerBuckleyUKCS/Cube-Tanks/blob/master/CubeTanks.zip)
+#### Simply Download the CubeTanks.zip, extract to the installation location, and run the Executable!
 
 ## Controls
 * Move with WASD
@@ -26,6 +26,3 @@ Try to unlock every tank and enjoy destroying enemies with new weapons.
 Fill the experience bar at the top of the screen to tier up.
 
 ### Screenshots found here: https://github.com/ParkerBuckleyUKCS/Cube-Tanks/tree/master/Screenshots
-
-### Executable found here: https://github.com/ParkerBuckleyUKCS/Cube-Tanks/blob/master/Build/Cube%20Tanks.exe
-
